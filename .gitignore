@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+.aider*
 
 # Test binaries
 *.test
