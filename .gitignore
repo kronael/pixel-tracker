@@ -4,7 +4,7 @@
 *.dll
 *.so
 *.dylib
-.aider*
+/pixel-tracker
 
 # Test binaries
 *.test
@@ -27,3 +27,4 @@ vendor/
 .vscode/
 *.sublime-*
 .DS_Store
+.aider*
