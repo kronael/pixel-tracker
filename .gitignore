@@ -1,0 +1,28 @@
+# Go binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Output of the coverage
+*.out
+
+# Go workspace files
+go.work
+go.work.sum
+
+# Dependency directories (remove if using go modules)
+vendor/
+
+# Editor specific
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+.DS_Store
